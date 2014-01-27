@@ -3,16 +3,16 @@
   <Server>
     <ClientName>app1</ClientName>
     <ProjectName>app1 - machine1</ProjectName>
-    <Path>\\bk-devbd-1001\Agoda\Application\Ycs.4 Auto Deploy\app1</Path>
+    <Path>\\myserver\Application\app1</Path>
   </Server>
   <Server>
     <ClientName>app1</ClientName>
     <ProjectName>app1 - machine2</ProjectName>
-    <Path>\\bk-devbd-1001\Agoda\Application\Ycs.4 Auto Deploy\app2</Path>
+    <Path>\\myserver\Application\app2</Path>
   </Server>
   <Server>
     <ClientName>app1</ClientName>
     <ProjectName>app1 - machine3</ProjectName>
-    <Path>\\bk-devbd-1001\Agoda\Application\Ycs.4 Auto Deploy\app3</Path>
+    <Path>\\myserver\Application\app3</Path>
   </Server>
 </ServerList>

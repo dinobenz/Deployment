@@ -1,0 +1,1 @@
+D:\Projects\Dinobenz\Dinobenz.Deployment\Deployment\Source\Dinobenz.Deployment\Dinobenz.Deployment\bin\Debug\Dinobenz.Deployment.exe.config

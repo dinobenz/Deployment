@@ -4,14 +4,17 @@ Deployment
 Deployment source code from client to server.
 
 Put your source machine configuration here ClientSettings.xml
+```
 <ClientList>
   <Client>
     <ProjectName>app1</ProjectName>
     <Path>C:\Users\myuser\Desktop\app1</Path>
   </Client>
 </ClientList>
+```
 
 Put your target machine configuration here ServerSettings.xml
+```
 <ServerList>
   <Server>
     <ClientName>app1</ClientName>
@@ -29,6 +32,7 @@ Put your target machine configuration here ServerSettings.xml
     <Path>\\myserver\Application\app3</Path>
   </Server>
 </ServerList>
+```
 
 Release Notes v.1.0.0.0
 ==========

@@ -4,4 +4,12 @@
     <ProjectName>app1</ProjectName>
     <Path>C:\Users\myuser\Desktop\app1</Path>
   </Client>
+  <Client>
+    <ProjectName>app2</ProjectName>
+    <Path>C:\Users\myuser\Desktop\app2</Path>
+  </Client>
+  <Client>
+    <ProjectName>app3</ProjectName>
+    <Path>C:\Users\myuser\Desktop\app3</Path>
+  </Client>
 </ClientList>

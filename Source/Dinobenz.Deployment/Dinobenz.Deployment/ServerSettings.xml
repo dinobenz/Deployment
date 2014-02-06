@@ -15,4 +15,14 @@
     <ProjectName>app1 - machine3</ProjectName>
     <Path>\\myserver\Application\app3</Path>
   </Server>
+  <Server>
+    <ClientName>app2</ClientName>
+    <ProjectName>app2 - machine1</ProjectName>
+    <Path>\\myserver\Application\app2</Path>
+  </Server>
+  <Server>
+    <ClientName>app3</ClientName>
+    <ProjectName>app3 - machine1</ProjectName>
+    <Path>\\myserver\Application\app3</Path>
+  </Server>
 </ServerList>

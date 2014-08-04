@@ -34,8 +34,6 @@ Put your target machine configuration here ServerSettings.xml
 </ServerList>
 ```
 
-Release Notes v.1.0.0.0
-==========
-
-- Copy file from single source to multiple target.
-- Overwrite the existing file.
+Status
+-----------
+[![Build status](https://ci.appveyor.com/api/projects/status/9hscl0mc3h0dp6k5)](https://ci.appveyor.com/project/dinobenz/deployment)
